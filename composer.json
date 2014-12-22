@@ -10,9 +10,6 @@
             "email": "maksyutin@yandex.ru"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "maksyutin\\widgets\\": ""
